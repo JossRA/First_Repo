@@ -1,0 +1,10 @@
+Pasos a seguir para subir archivo a GitHub.com
+
+Dirección SSH: git@github.com:JossRA/First-Repo.git
+
+1) git init     -- Inicia el repositorio
+2) git status   -- Informa del estado de los archivos en la carpeta.
+3) git commit -m "first commit"
+4) git remote add origin git@github.com:JossRA/First-Repo.git
+5) git push origin master     --Envía la rama master a GitHub
+
