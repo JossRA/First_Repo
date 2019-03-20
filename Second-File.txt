@@ -8,3 +8,9 @@ Dirección SSH: git@github.com:JossRA/First-Repo.git
 4) git remote add origin git@github.com:JossRA/First-Repo.git
 5) git push origin master     --Envía la rama master a GitHub
 
+-------
+-- Para añadir otro archivo al Repositorio (En este caso [Second-File.txt])
+1) git add Second-File.txt
+2) git commit -m "Second Commit"
+3) git push origin master
+
