@@ -14,3 +14,9 @@ Dirección SSH: git@github.com:JossRA/First-Repo.git
 2) git commit -m "Second Commit"
 3) git push origin master
 
+-------
+-- Para descargar toda la rama Master de un repositorio
+git pull origin master
+
+-------
+
