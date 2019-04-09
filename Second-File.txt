@@ -19,4 +19,10 @@ Dirección SSH: git@github.com:JossRA/First-Repo.git
 git pull origin master
 
 -------
+-- Crear Ramas (Branches) del directorio Master
+1) git branch <nombre_rama>
+2) git checkout <nombre_rama> -- Para cambiar a la rama recien creada.
+3) git add .
+4) git commit -m "<nombre_rama> commit"
+5) git push origin <nombre_rama>
 
