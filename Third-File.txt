@@ -4,3 +4,28 @@ Modified again!
 https://www.xvideos.com/video39622861/busty_babes_suzie_and_krystal_swift_get_their_titties_and_shaved_pussies_fucked
 
 https://github.com/TefiC/TefiC.github.io
+
+-- Contribuciones en los distintos Repositorios
+A veces notarás que aunque crees un pull request o envíes cambios a tu repositorio, tus contribuciones para ese día no serán reflejadas en este gráfico y el cuadrado permanecerá gris.
+
+Esto se debe a que las contribuciones deben cumplir un cierto criterio para ser añadidas a este gráfico:
+
+    Los issues y los pull requests creados en un repositorio bifurcado no contarán para este gráfico.
+
+    Los commits cuentan si cumplen estos tres criterios:
+
+        La cuenta de correo asociada al commit es el correo que tienes asociado a tu cuenta GitHub.
+
+        Los commits no fueron hechos en un repositorio bifurcado.
+
+        Los commits fueron hechos en la rama master o en la rama gh-pages (la rama usada para alojar páginas web en GitHub)
+
+        Y... una de estas condiciones deben ser ciertas:
+
+            Eres un(a) colaborador(a) para el repositorio.
+
+            Bifurcaste el repositorio.
+
+            Creaste un issue o pull request.
+
+            Indicaste que te gusta el repositorio haciendo click en la estrella. 
