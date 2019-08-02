@@ -19,4 +19,24 @@ Dirección SSH: git@github.com:JossRA/First-Repo.git
 git pull origin master
 
 -------
+-- Crear Ramas (Branches) del directorio Master
+1) git branch <nombre_rama>
+2) git checkout <nombre_rama> -- Para cambiar a la rama recien creada.
+3) git add .
+4) git commit -m "<nombre_rama> commit"
+5) git push origin <nombre_rama>
+--------
+-- Eliminar Ramas
+a) Para eliminar tu rama local, ve a tu repositorio Master usando git bash y ejecuta este comando:
+1) git branch -d <nombre_de_la_rama>
+
+b) Ahora puedes eliminar tu rama remota almacenada en GitHub:
+2)git push origin --delete <nombre_de_la_rama>
+--------
+-- Clonar un FORK (Bifurcación) de tu repositorio local de Git al  repositorio local en mi ordenador.
+-- Se da por hecho que ya 'Forkeado' o 'Bifurcado' el Repositorio del usuario original en mi usuario github.
+1) Hay que ir a la carpeta en local donde se guardan los repositorios (en mi caso c:\Documents\github)
+2) git clone <clave ssh de la cuenta>
+3) Se Clona todo el repositorio incluyendo branches (ramas) o historial de commits.
+
 
